@@ -1,0 +1,424 @@
+Dept,Semester,Section,Course Code,Name of the Course,Course Handling Staff,Course Coordinator,Course Type,Occur
+CSE-DS,6,A1,SITA3010,Natural Language Processing,Mrs.Hema V,Mrs. Hema V,THEORY,3
+CSE-DS,6,A1,SITA3005,Social Network Analysis,Mrs.Anu Disney D,Mrs. Anu Disney D,THEORY,3
+CSE-DS,6,A1,SCSA1611,Data Visualization,Dr.K.Ashok Kumar,Dr. K. Ashok Kumar,THEORY,3
+CSE-DS,6,A1,SCSA3033,Applied Machine Learning,Ms.R.Sasirekha,Mrs. Saraswathi S,THEORY,3
+CSE-DS,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-DS,6,A1,SECA3009,Digital Image Processing,Dr.Veda Narayanan,Dr. Veda Narayanan,THEORY,3
+CSE-DS,6,A1,SCSA2607,Data Visualization Lab,Dr.K.Ashok Kumar,Dr. K. Ashok Kumar,PRACTICAL,2
+CSE-DS,6,A1,SCSA2604,Natural Language Processing Lab,Mrs.Hema V,Mrs. Parveen . A,PRACTICAL,2
+CSE-DS,6,A1,S733AIPROJ,Interdisciplinary Project,Mrs.Hema V,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-DS,6,A2,SITA3010,Natural Language Processing,Mrs.Hema V,Mrs. Hema V,THEORY,3
+CSE-DS,6,A2,SITA3005,Social Network Analysis,Mrs.Anu Disney D,Mrs. Anu Disney D,THEORY,3
+CSE-DS,6,A2,SCSA1611,Data Visualization,Dr.K.Ashok Kumar,Dr. K. Ashok Kumar,THEORY,3
+CSE-DS,6,A2,SCSA3033,Applied Machine Learning,Dr.D.Sudha,Mrs. Saraswathi S,THEORY,3
+CSE-DS,6,A2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-DS,6,A2,SECA3009,Digital Image Processing,Dr.Veda Narayanan,Dr. Veda Narayanan,THEORY,3
+CSE-DS,6,A2,SCSA2607,Data Visualization Lab,Dr.K.Ashok Kumar,Dr. K. Ashok Kumar,PRACTICAL,2
+CSE-DS,6,A2,SCSA2604,Natural Language Processing Lab,Mrs.Hema V,Mrs. Parveen . A,PRACTICAL,2
+CSE-DS,6,A2,S733AIPROJ,Interdisciplinary Project,Ms.Ishwarya K,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-DS,6,A3,SITA3010,Natural Language Processing,Mrs.Hema V,Mrs. Hema V,THEORY,3
+CSE-DS,6,A3,SITA3005,Social Network Analysis,Mrs.Anu Disney D,Mrs. Anu Disney D,THEORY,3
+CSE-DS,6,A3,SCSA1611,Data Visualization,Mr.Sundar R,Dr. K. Ashok Kumar,THEORY,3
+CSE-DS,6,A3,SCSA3033,Applied Machine Learning,Dr.D.Sudha,Mrs. Saraswathi S,THEORY,3
+CSE-DS,6,A3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-DS,6,A3,SECA3009,Digital Image Processing,Dr.Veda Narayanan,Dr. Veda Narayanan,THEORY,3
+CSE-DS,6,A3,SCSA2607,Data Visualization Lab,Dr.P.Sardar Maran,Dr. K. Ashok Kumar,PRACTICAL,2
+CSE-DS,6,A3,SCSA2604,Natural Language Processing Lab,Ms.S.Nandhini,Mrs. Parveen . A,PRACTICAL,2
+CSE-DS,6,A3,S733AIPROJ,Interdisciplinary Project,Dr.G.Mathivanan,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE,6,A1,SCSA1601,Machine Learning,Dr.P.Asha,Dr.Mercy Paul Selvan & Dr.A.C.Santha Sheela,THEORY,3
+CSE,6,A1,SCSA1602,Network Security,Dr.G.Nagarajan,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,A1,SCSA1603,Big data Analytics,Ms.Karthika.J,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,A1,SCSA1604,Compiler Design,Dr.S.Prince Mary,Dr.Kalaiarasi & Dr.Selvi,THEORY,3
+CSE,6,A1,SITA1502,Customer Interface Design and Development,Dr.S.Dhamodaran,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,A1,SCSA2601,Machine Learning and Data Analytics,Dr.P.Asha,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,A1,SCSA2602,Compiler Design Lab,Dr.S.Prince Mary,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,A1,MATLAB,Programming in MATLAB,Ms.N.Uma Sankari,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,A2,SCSA1601,Machine Learning,Dr.P.Asha,Dr.Mercy Paul Selvan & Dr.A.C.Santha Sheela,THEORY,3
+CSE,6,A2,SCSA1602,Network Security,Dr.S.PraylaShyry,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,A2,SCSA1603,Big data Analytics,Ms.Devipriya,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,A2,SCSA1604,Compiler Design,Dr.S.Prince Mary,Dr.Kalaiarasi & Dr.Selvi,THEORY,3
+CSE,6,A2,SITA1502,Customer Interface Design and Development,Dr.S.Dhamodaran,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,A2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,A2,SCSA2601,Machine Learning and Data Analytics,Dr.P.Asha,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,A2,SCSA2602,Compiler Design Lab,Ms.RamyaBharathi,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,A2,MATLAB,Programming in MATLAB,Ms.Asha Judi,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,A3,SCSA1601,Machine Learning,Dr.C.M.Suja,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,A3,SCSA1602,Network Security,Dr.G.Nagarajan,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,A3,SCSA1603,Big data Analytics,Dr.N.Srinivasan,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,A3,SCSA1604,Compiler Design,Ms Bobby,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,A3,SITA1502,Customer Interface Design and Development,Dr.C.Hemalatha,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,A3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,A3,SCSA2601,Machine Learning and Data Analytics,Dr.G.Nagarajan,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,A3,SCSA2602,Compiler Design Lab,Mr.VijayRamalingam,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,A3,MATLAB,Programming in MATLAB,Dr.Vaissanve.V,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,A4,SCSA1601,Machine Learning,Dr.A.Mary Posonia,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,A4,SCSA1602,Network Security,Dr.S.Murugan,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,A4,SCSA1603,Big data Analytics,Dr.N.Srinivasan,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,A4,SCSA1604,Compiler Design,Dr.Gopika,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,A4,SITA1502,Customer Interface Design and Development,Ms.LakshmiPriya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,A4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,A4,SCSA2601,Machine Learning and Data Analytics,Dr.G.Nagarajan,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,A4,SCSA2602,Compiler Design Lab,Mr.Vijay,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,A4,MATLAB,Programming in MATLAB,Ms.Kabitha,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,A5,SCSA1601,Machine Learning,Dr.B.Ankayarkanni ,Dr.Mercy Paul Selvan & Dr.A.C.Santha Sheela,THEORY,3
+CSE,6,A5,SCSA1602,Network Security,Dr.S.PraylaShyry,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,A5,SCSA1603,Big data Analytics,Dr.L.K.Joshila Grace,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,A5,SCSA1604,Compiler Design,Dr.D.UshaNandini,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,A5,SITA1502,Customer Interface Design and Development,Dr.J Cruz Antony,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,A5,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,A5,SCSA2601,Machine Learning and Data Analytics,Dr.L.K.Joshila Grace,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,A5,SCSA2602,Compiler Design Lab,Dr.D.UshaNandini,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,A5,MATLAB,Programming in MATLAB,Ms.K.Dhanalakshmi,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,B1,SCSA1601,Machine Learning,Dr.V.Saranya,Dr.Mercy Paul Selvan& Dr.A.C.Santha Sheela,THEORY,3
+CSE,6,B1,SCSA1602,Network Security,Dr.V.Nirmalrani,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,B1,SCSA1603,Big data Analytics,Dr.L.K.Joshila Grace,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,B1,SCSA1604,Compiler Design,Ms Bobby,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,B1,SITA1502,Customer Interface Design and Development,Dr.J Cruz Antony,Dr.S.Supriya &Dr.C.Hemalatha,THEORY,3
+CSE,6,B1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,B1,SCSA2601,Machine Learning and Data Analytics,Dr.V.Saranya,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,B1,SCSA2602,Compiler Design Lab,Ms.Anandha Sree,Dr. M. D. Anto Praveena& Dr.Gopika,PRACTICAL,2
+CSE,6,B1,MATLAB,Programming in MATLAB,Dr.M.P.Vaishnnavi,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,B2,SCSA1601,Machine Learning,Dr.Mercy Paul Selvan,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,B2,SCSA1602,Network Security,Dr.A.Sivasangari,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,B2,SCSA1603,Big data Analytics,Dr.M.S.Roobini,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,B2,SCSA1604,Compiler Design,Dr.Kalaiarasi,Dr.Kalaiarasi& Dr.Selv,THEORY,3
+CSE,6,B2,SITA1502,Customer Interface Design and Development,Dr.R.M.Gomath,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,B2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,B2,SCSA2601,Machine Learning and Data Analytics,Dr.Mercy Paul Selvan,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,B2,SCSA2602,Compiler Design Lab,Ms.RamyaBharathi,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,B2,MATLAB,Programming in MATLAB,Dr.M.P.Vaishnnavi,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,B3,SCSA1601,Machine Learning,Dr.A.Christy,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,B3,SCSA1602,Network Security,Dr.S.Gowri,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,B3,SCSA1603,Big data Analytics,Dr.M.S.Roobini,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,B3,SCSA1604,Compiler Design,Dr.Kalaiarasi,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,B3,SITA1502,Customer Interface Design and Development,Ms.S.Nithya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,B3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,B3,SCSA2601,Machine Learning and Data Analytics,Dr.A.Christy,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,B3,SCSA2602,Compiler Design Lab,Dr.Kalaiarasi,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,B3,MATLAB,Programming in MATLAB,Ms.Joan Niveda,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,B4,SCSA1601,Machine Learning,Dr.A.C.Santha Sheela,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,B4,SCSA1602,Network Security,Dr.S.Gowri,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,B4,SCSA1603,Big data Analytics,Ms.Devipriya,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,B4,SCSA1604,Compiler Design,Ms.R.Yogitha,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,B4,SITA1502,Customer Interface Design and Development,Ms.Manju C Nair,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,B4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,B4,SCSA2601,Machine Learning and Data Analytics,Dr.S.Jayanthy,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,B4,SCSA2602,Compiler Design Lab,Ms.R.Yogitha,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,B4,MATLAB,Programming in MATLAB,Ms.Surya.V,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,B5,SCSA1601,Machine Learning,Dr.A.C.Santha Sheela,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,B5,SCSA1602,Network Security,Ms.D.Deepa,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,B5,SCSA1603,Big data Analytics,Ms.Vanathi.M,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,B5,SCSA1604,Compiler Design,Ms.Sree Krishna,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,B5,SITA1502,Customer Interface Design and Development,Ms.Manju C Nair,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,B5,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,B5,SCSA2601,Machine Learning and Data Analytics,Dr.A.C.Santha Sheela,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,B5,SCSA2602,Compiler Design Lab,Ms.Sree Krishna,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,B5,MATLAB,Programming in MATLAB,Ms.R.Lalitha,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,C1,SCSA1601,Machine Learning,Dr.C.M.Suja,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,C1,SCSA1602,Network Security,Mr.Vlgnesh.R,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,C1,SCSA1603,Big data Analytics,Ms.Vanathi.M,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,C1,SCSA1604,Compiler Design,Dr.Anita Davamani,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,C1,SITA1502,Customer Interface Design and Development,Dr.E.Srividhya,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,C1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,C1,SCSA2601,Machine Learning and Data Analytics,Dr.JanyShabu,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,C1,SCSA2602,Compiler Design Lab,Ms.Rajapriya S P,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,C1,MATLAB,Programming in MATLAB,Mr.Vijay Ramalingam,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,C2,SCSA1601,Machine Learning,Dr.A.Mary Posonia,Dr.Mercy Paul Selvan & Dr.A.C.Santha Sheela,THEORY,3
+CSE,6,C2,SCSA1602,Network Security,Mr.Vlgnesh.R,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,C2,SCSA1603,Big data Analytics,Ms.Karthika.J,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,C2,SCSA1604,Compiler Design,Dr.B.Ankayarkanni,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,C2,SITA1502,Customer Interface Design and Development,Dr.E.Srividhya,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,C2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,C2,SCSA2601,Machine Learning and Data Analytics,Dr.A.Sivasangari,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,C2,SCSA2602,Compiler Design Lab,Dr.A.Mary Posonia,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,C2,MATLAB,Programming in MATLAB,Dr Maya Gopal,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,C3,SCSA1601,Machine Learning,Dr.M.Maheswari,Dr.Mercy Paul Selvan & Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,C3,SCSA1602,Network Security,Dr.PAjitha,Dr.S.Gowri & Dr.Nirmal Rani,THEORY,3
+CSE,6,C3,SCSA1603,Big data Analytics,Ms.T.Anandhi,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,C3,SCSA1604,Compiler Design,Dr.A.Mary Posonia,Dr.Kalaiarasi & Dr.Selv,THEORY,3
+CSE,6,C3,SITA1502,Customer Interface Design and Development,Ms.Lavanya,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,C3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,C3,SCSA2601,Machine Learning and Data Analytics,Dr.T.Judgi,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,C3,SCSA2602,Compiler Design Lab,Dr.A.Mary Posonia,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,C3,MATLAB,Programming in MATLAB,Ms.Kathambari,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,C4,SCSA1601,Machine Learning,Dr.M.Maheswari,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,C4,SCSA1602,Network Security,Dr.SabeenaGnanaselvi,Dr.S.Gowri & Dr.Nirmal Rani,THEORY,3
+CSE,6,C4,SCSA1603,Big data Analytics,Ms.T.Anandhi,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,C4,SCSA1604,Compiler Design,Ms.D.Aishwarya,Dr.Kalaiarasi& Dr.Sel,THEORY,3
+CSE,6,C4,SITA1502,Customer Interface Design and Development,Ms.Lavanya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,C4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,C4,SCSA2601,Machine Learning and Data Analytics,Dr.JebersonRetna Raj,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,C4,SCSA2602,Compiler Design Lab,Ms.Rajapriya S P,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,C4,MATLAB,Programming in MATLAB,MsG.Abirami,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,C5,SCSA1601,Machine Learning,Dr.V.Saranya,Dr.Mercy Paul Selvan & Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,C5,SCSA1602,Network Security,Dr.PAjitha,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,C5,SCSA1603,Big data Analytics,Dr.Sridevi,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,C5,SCSA1604,Compiler Design,Dr.M.Selvi,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,C5,SITA1502,Customer Interface Design and Development,Dr.R.M.Gomathi,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,C5,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,C5,SCSA2601,Machine Learning and Data Analytics,Dr.Sridevi,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,C5,SCSA2602,Compiler Design Lab,Ms.A.KerolinPriya,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,C5,MATLAB,Programming in MATLAB,Mr.R.RahinBatcha,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,D1,SCSA1601,Machine Learning,Dr.Mercy Paul Selvan,Dr.Mercy Paul Selvan& Dr.A.C.Santha Sheela,THEORY,3
+CSE,6,D1,SCSA1602,Network Security,Dr.V.Nirmalrani,Dr.S.Gowri& Dr.Nirmal Ran,THEORY,3
+CSE,6,D1,SCSA1603,Big data Analytics,Ms.S.Pothumani,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,D1,SCSA1604,Compiler Design,Ms.R.Yogitha,Dr.Kalaiarasi& Dr.Selv,THEORY,3
+CSE,6,D1,SITA1502,Customer Interface Design and Development,Ms.LakshmiPriya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,D1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,D1,SCSA2601,Machine Learning and Data Analytics,Dr.Mercy Paul Selvan,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,D1,SCSA2602,Compiler Design Lab,Dr.Sabeena Gnanaselvi,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,D1,MATLAB,Programming in MATLAB,Ms.Gayathri Sivakumar,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,D2,SCSA1601,Machine Learning,Dr.Jeslin Shanthamalar,Dr.Mercy Paul Selvan & Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,D2,SCSA1602,Network Security,DrA.Sivasangari,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,D2,SCSA1603,Big data Analytics,Ms.S.Pothumani,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,D2,SCSA1604,Compiler Design,Dr.B.Ankayarkanni,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,D2,SITA1502,Customer Interface Design and Development,Dr.NancyNoella,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,D2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,D2,SCSA2601,Machine Learning and Data Analytics,Ms.Gowri Manohari,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,D2,SCSA2602,Compiler Design Lab,Ms.Sree Krishna,Dr. M. D. Anto Praveena& Dr.Gopika,PRACTICAL,2
+CSE,6,D2,MATLAB,Programming in MATLAB,Dr..Mohana Priya,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,D3,SCSA1601,Machine Learning,Dr.Jeslin Shanthamalar,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,D3,SCSA1602,Network Security,Dr.G.M.Karpura Dheepan,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,D3,SCSA1603,Big data Analytics,Dr.Saranya.S,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,D3,SCSA1604,Compiler Design,Dr.D.Usha Nandini,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,D3,SITA1502,Customer Interface Design and Development,Dr.Nancy Noella,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,D3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,D3,SCSA2601,Machine Learning and Data Analytics,Dr.Nancy Noella,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,D3,SCSA2602,Compiler Design Lab,Ms.Gracelin Sheena,Dr. M. D. Anto Praveena& Dr.Gopika,PRACTICAL,2
+CSE,6,D3,MATLAB,Programming in MATLAB,Ms.Kalaivani A,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,D4,SCSA1601,Machine Learning,Ms.Kabitha,Dr.Mercy Paul Selvan & Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,D4,SCSA1602,Network Security,Dr.G.M.KarpuraDheepan,Dr.S.Gowri & Dr.Nirmal Rani,THEORY,3
+CSE,6,D4,SCSA1603,Big data Analytics,Dr.Saranya.S,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,D4,SCSA1604,Compiler Design,Ms.Devi,Dr.Kalaiarasi & Dr.Selvi,THEORY,3
+CSE,6,D4,SITA1502,Customer Interface Design and Development,Ms.C.A.Daphine,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,D4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,D4,SCSA2601,Machine Learning and Data Analytics,Ms.GowriManohari,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,D4,SCSA2602,Compiler Design Lab,Ms.Devi,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,D4,MATLAB,Programming in MATLAB,Ms.Gayathri.S,Mr.Vijay Ramalingam,PRACTICAL,3
+CSE,6,D5,SCSA1601,Machine Learning,Ms.Kabitha,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,D5,SCSA1602,Network Security,Dr.Rajashree,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,D5,SCSA1603,Big data Analytics,Ms.PavithraBabu,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,D5,SCSA1604,Compiler Design,Ms.D.Aishwarya,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,D5,SITA1502,Customer Interface Design and Development,Dr.S.Supriya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,D5,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,D5,SCSA2601,Machine Learning and Data Analytics,Ms.Kabitha,Dr. P. Asha Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,D5,SCSA2602,Compiler Design Lab,Dr.S.Supriya,Dr. M. D. Anto Praveena &Dr.Gopika,PRACTICAL,2
+CSE,6,D5,MATLAB,Programming in MATLAB,Ms.Abirami.R,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,E1,SCSA1601,Machine Learning,Dr.S.Bangaru Kamatchi,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,E1,SCSA1602,Network Security,Dr.Rajashree,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,E1,SCSA1603,Big data Analytics,Ms.PavithraBabu,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,E1,SCSA1604,Compiler Design,Dr.M.Selvi,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,E1,SITA1502,Customer Interface Design and Development,Dr.C.Hemalatha,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,E1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,E1,SCSA2601,Machine Learning and Data Analytics,Dr.Rajashree,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,E1,SCSA2602,Compiler Design Lab,Dr.C.Hemalatha,Dr. M. D. Anto Praveena& Dr.Gopika,PRACTICAL,2
+CSE,6,E1,MATLAB,Programming in MATLAB,Dr.K.Lalithadevi,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,E2,SCSA1601,Machine Learning,Ms.V.K.Divya,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,E2,SCSA1602,Network Security,Dr.E.Murali,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,E2,SCSA1603,Big data Analytics,Ms.Ridhi Mayura Shivani,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,E2,SCSA1604,Compiler Design,Dr.Gopika,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,E2,SITA1502,Customer Interface Design and Development,Ms.S.Nithya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,E2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,E2,SCSA2601,Machine Learning and Data Analytics,Ms.Karunya,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,E2,SCSA2602,Compiler Design Lab,Ms.Gracelin Sheena,Dr. M. D. Anto Praveena& Dr.Gopika,PRACTICAL,2
+CSE,6,E2,MATLAB,Programming in MATLAB,Ms.Mabel Nirmala Joseph,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,E3,SCSA1601,Machine Learning,Dr.S.BangaruKamatchi,Dr.Mercy Paul Selvan& Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,E3,SCSA1602,Network Security,Dr.E.Murali,Dr.S.Gowri& Dr.Nirmal Rani,THEORY,3
+CSE,6,E3,SCSA1603,Big data Analytics,Ms.Ridhi Mayura Shivani,Dr.S.Karthikeyan& Dr.N.Srinivasan,THEORY,3
+CSE,6,E3,SCSA1604,Compiler Design,Ms.Devi,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,E3,SITA1502,Customer Interface Design and Development,Dr..MohanaPriya,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,E3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,E3,SCSA2601,Machine Learning and Data Analytics,Ms.Dharani,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,E3,SCSA2602,Compiler Design Lab,Ms.T.Bhanu Shree,Dr. M. D. Anto Praveena& Dr.Gopika,PRACTICAL,2
+CSE,6,E3,MATLAB,Programming in MATLAB,Ms.Queen Mary Vidya,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,E4,SCSA1601,Machine Learning,Dr Maya Gopal,Dr.Mercy Paul Selvan & Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,E4,SCSA1602,Network Security,Dr.Sabeena Gnanaselvi,Dr.S.Gowri & Dr.Nirmal Rani,THEORY,3
+CSE,6,E4,SCSA1603,Big data Analytics,Dr.S.Karthikeyan,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,E4,SCSA1604,Compiler Design,Dr.Anita Davamani,Dr.Kalaiarasi& Dr.Selvi,THEORY,3
+CSE,6,E4,SITA1502,Customer Interface Design and Development,Ms.C.A.Daphine,Dr.S.Supriya& Dr.C.Hemalatha,THEORY,3
+CSE,6,E4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,E4,SCSA2601,Machine Learning and Data Analytics,Dr Maya Gopal,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,E4,SCSA2602,Compiler Design Lab,Ms.Bobby,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,E4,MATLAB,Programming in MATLAB,Dr.G.Nagarajan,Mr.VijayRamalingam,PRACTICAL,3
+CSE,6,E5,SCSA1601,Machine Learning,Dr Maya Gopal,Dr.Mercy Paul Selvan & Dr.A.C.SanthaSheela,THEORY,3
+CSE,6,E5,SCSA1602,Network Security,Ms.D.Deepa,Dr.S.Gowri & Dr.Nirmal Ran,THEORY,3
+CSE,6,E5,SCSA1603,Big data Analytics,Dr.S.Karthikeyan,Dr.S.Karthikeyan & Dr.N.Srinivasan,THEORY,3
+CSE,6,E5,SCSA1604,Compiler Design,Ms.Sree Krishna,Dr.Kalaiarasi & Dr.Selv,THEORY,3
+CSE,6,E5,SITA1502,Customer Interface Design and Development,Dr.S.Supriya,Dr.S.Supriya & Dr.C.Hemalatha,THEORY,3
+CSE,6,E5,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE,6,E5,SCSA2601,Machine Learning and Data Analytics,Dr Maya Gopal,Dr. P. Asha & Dr. S. Dhamodaran,PRACTICAL,2
+CSE,6,E5,SCSA2602,Compiler Design Lab,Dr.S.Supriya,Dr. M. D. Anto Praveena & Dr.Gopika,PRACTICAL,2
+CSE,6,E5,MATLAB,Programming in MATLAB,Dr.D.Sudha,Mr.VijayRamalingam,PRACTICAL,3
+CSE-IOT,6,A1,SCSA1607,IoT and Multimedia Technology,Ms.Devi,Ms. Devi,THEORY,3
+CSE-IOT,6,A1,SCSA1608,IoT in Big Data Analytics,Mrs.D Sudha,Mrs. D Sudha,THEORY,3
+CSE-IOT,6,A1,SCSA1609,Java Programming for IoT,Dr.E.Srividhya,Dr.E.Srividhya,THEORY,3
+CSE-IOT,6,A1,SCSA3033,Applied Machine Learning,Dr.G.Mathivanan,Mrs. Saraswathi S,THEORY,3
+CSE-IOT,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-IOT,6,A1,SCSA3029,Smarter City,Dr.Sonia Jenifer Rayen,Dr. Sonia Jenifer Rayen,THEORY,3
+CSE-IOT,6,A1,SCSA2605,Java Programming for IoT lab,Dr.E.Srividhya,Dr.E.Srividhya,PRACTICAL,2
+CSE-IOT,6,A1,SCSA2606,IoT in Big Data Analytics Lab,Mrs.R.Yugha,Mrs. R. Yugha,PRACTICAL,2
+CSE-IOT,6,A1,S732AIPROJ,Interdisciplinary Project,Ms.Abinaya K,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,A1,SMTA1605,Exploratory Data Analysis and Time Series,Mr.Karthic,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,A1,SITA3010,INatural Language Processing,Dr.A.Annie Micheal,Mrs. Hema V,THEORY,3
+CSE-AIML,6,A1,SCSA1606,Predictive and Advanced Analytics,Dr.B.Sathiyaprasad,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,A1,SCSA3033,Applied Machine Learning,Mrs.Ishwarya K,Mrs. Saraswathi S,THEORY,3
+CSE-AIML,6,A1,SCSA3043,ML tools and Techniques,Mrs.Lekshmi S Raveendran,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,A1,SCSA2608,AI and Visualization lab,Dr.B.Sathiyaprasad,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,A1,SCSA2604,Natural Language Processing Lab,Dr.A.Annie Micheal,Mrs. Parveen A,PRACTICAL,2
+CSE-AIML,6,A1,S611AIPROJ,Interdisciplinary Project,Ms.Anu Disney D,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,A2,SMTA1605,Exploratory Data Analysis and Time Series,Dr.H.Girija Bai,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,A2,SITA3010,INatural Language Processing,Dr.A.Annie Micheal,Mrs. Hema V,THEORY,3
+CSE-AIML,6,A2,SCSA1606,Predictive and Advanced Analytics,Dr.B.U.Anu Barathi,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,A2,SCSA3033,Applied Machine Learning,Dr.G.Mathivanan,Mrs. Saraswathi S,THEORY,3
+CSE-AIML,6,A2,SCSA3043,ML tools and Techniques,Mrs.Lekshmi S Raveendran,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,A2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,A2,SCSA2608,AI and Visualization lab,Dr.B.U.Anu Barathi,. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,A2,SCSA2604,Natural Language Processing Lab,Dr.A-Annie Micheal,. Parveen . A,PRACTICAL,2
+CSE-AIML,6,A2,S611AIPROJ,Interdisciplinary Project,Ms.D Sudha,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,A3,SMTA1605,Exploratory Data Analysis and Time Series,Dr.H.Girija Bai,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,A3,SITA3010,INatural Language Processing,Dr.A.Annie Micheal,Mrs. Hema V,THEORY,3
+CSE-AIML,6,A3,SCSA1606,Predictive and Advanced Analytics,Dr.B.U.Anu Barathi,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,A3,SCSA3033,Applied Machine Learning,Mrs.Saraswathl S,Mrs. Saraswathi S,THEORY,3
+CSE-AIML,6,A3,SCSA3043,ML tools and Techniques,Mrs.Lekshmi S Raveendran,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,A3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,A3,SCSA2608,AI and Visualization lab,Dr.B.U.Anu Barathi,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,A3,SCSA2604,Natural Language Processing Lab,Mr.Sundar R,Mrs. Parveen . A,PRACTICAL,2
+CSE-AIML,6,A3,S611AIPROJ,Interdisciplinary Project,Dr.R.Sathya Bama Krishna,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,A4,SMTA1605,Exploratory Data Analysis and Time Series,Dr.D.Angel,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,A4,SITA3010,INatural Language Processing,Ms.Devipriya,Mrs. Hema V,THEORY,3
+CSE-AIML,6,A4,SCSA1606,Predictive and Advanced Analytics,Dr.B.U.Anu Barathi,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,A4,SCSA3033,Applied Machine Learning,Mrs.Saraswathi S,Mrs. Saraswathi S,THEORY,3
+CSE-AIML,6,A4,SCSA3043,ML tools and Techniques,Dr.Minu Susan Jacob,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,A4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,A4,SCSA2608,AI and Visualization lab,Dr.D.Menaka,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,A4,SCSA2604,Natural Language Processing Lab,Mr.Sundar R,Mrs. Parveen . A,PRACTICAL,2
+CSE-AIML,6,A4,S611AIPROJ,Interdisciplinary Project,Ms.Scinthia Clarinda S,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,A5,SMTA1605,Exploratory Data Analysis and Time Series,Mr.Karthic,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,A5,SITA3010,INatural Language Processing,Dr.C.Hemalatha,Mrs. HEMA V,THEORY,3
+CSE-AIML,6,A5,SCSA1606,Predictive and Advanced Analytics,Dr.B.Sathiyaprasad,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,A5,SCSA3033,Applied Machine Learning,Mrs.Ishwarya K,Mrs. SARASWATHI S,THEORY,3
+CSE-AIML,6,A5,SCSA3043,ML tools and Techniques,Dr.Minu Susan Jacob,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,A5,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,A5,SCSA2608,AI and Visualization lab,Dr.B.Sathiyaprasad,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,A5,SCSA2604,Natural Language Processing Lab,Mr.Sundar R,Mrs. Parveen . A,PRACTICAL,2
+CSE-AIML,6,A5,S611AIPROJ,Interdisciplinary Project,Dr.B.U.Anu Barathi,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,B1,SMTA1605,Exploratory Data Analysis and Time Series,Dr.Reegan Jebadass,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,B1,SITA3010,INatural Language Processing,Mr.T.Venketbabu,Mrs. Hema V,THEORY,3
+CSE-AIML,6,B1,SCSA1606,Predictive and Advanced Analytics,Ms.Balasaigayathrl B,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,B1,SCSA3033,Applied Machine Learning,Ms.Shanthi Thangam M,Mrs. Saraswathi S,THEORY,3
+CSE-AIML,6,B1,SCSA3043,ML tools and Techniques,Dr.Minu Susan Jacob,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,B1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,B1,SCSA2608,AI and Visualization lab,Mrs.G Anbu Selvi,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,B1,SCSA2604,Natural Language Processing Lab,Mrs.Parveen.A,Mrs. Parveen . A,PRACTICAL,2
+CSE-AIML,6,B1,S611AIPROJ,Interdisciplinary Project,Dr.Geethanjali,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIML,6,B2,SMTA1605,Exploratory Data Analysis and Time Series,Dr.Reegan Jebadass,Dr. H. Girija Bai,THEORY,3
+CSE-AIML,6,B2,SITA3010,INatural Language Processing,Mr.T.Venketbabu,Mrs. HEMA V,THEORY,3
+CSE-AIML,6,B2,SCSA1606,Predictive and Advanced Analytics,Mrs.G Anbu Selvi,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AIML,6,B2,SCSA3033,Applied Machine Learning,Shanthi Thangam M,Mrs. Saraswathi S,THEORY,3
+CSE-AIML,6,B2,SCSA3043,ML tools and Techniques,Mrs.Parveen.A,Dr. Minu Susan Jacob,THEORY,3
+CSE-AIML,6,B2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIML,6,B2,SCSA2608,AI and Visualization lab,Mrs.G Anbu Selvi,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AIML,6,B2,SCSA2604,Natural Language Processing Lab,Mrs.Parveen.A,Mrs. Parveen . A,PRACTICAL,2
+CSE-AIML,6,B2,S611AIPROJ,Interdisciplinary Project,Dr.N.Nanthini,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AI,6,A1,SITA3007,Computational Intelligence,Dr.P.Sardar Maran,Dr. D. Menaka,THEORY,3
+CSE-AI,6,A1,SITA3010,Natural Language Processing,Ms.Kalaivani A,Mrs. Hema V,THEORY,3
+CSE-AI,6,A1,SCSA3033,Applied Machine Learning,Ms.T.Bhanu Shree,Mrs. Saraswathi S,THEORY,3
+CSE-AI,6,A1,SCSA1606,Predictive and Advanced Analytics,Dr.G.Mathivanan,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AI,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AI,6,A1,SECA3009,Digital Image Processing,Dr.Naresh Kumar Thapa,Dr. Veda Narayanan,THEORY,3
+CSE-AI,6,A1,SCSA2608,AI and Visualization Lab,Dr.D.Menaka,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AI,6,A1,SCSA2604,Natural Language Processing Lab,J.Sarojini Premalatha,Mrs. Parveen . A,PRACTICAL,2
+CSE-AI,6,A1,S731AIPROJ,Interdisciplinary Project,Dr.Minu Susan Jacob,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AI,6,A2,SITA3007,Computational Intelligence,Dr.D.Menaka,Dr. D. Menaka,THEORY,3
+CSE-AI,6,A2,SITA3010,Natural Language Processing,Ms.Kalaivani A,Mrs. HEMA V,THEORY,3
+CSE-AI,6,A2,SCSA3033,Applied Machine Learning,Ms.T.Bhanu Shree,Mrs. SARASWATHI S,THEORY,3
+CSE-AI,6,A2,SCSA1606,Predictive and Advanced Analytics,Dr.B.Sathiyaprasad,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AI,6,A2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AI,6,A2,SECA3009,Digital Image Processing,Dr.Naresh Kumar Thapa,Dr. Veda Narayanan,THEORY,3
+CSE-AI,6,A2,SCSA2608,AI and Visualization Lab,Dr.B.Sathiyaprasad,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AI,6,A2,SCSA2604,Natural Language Processing Lab,J.Sarojini Premalatha,Mrs. Parveen . A,PRACTICAL,2
+CSE-AI,6,A2,S731AIPROJ,Interdisciplinary Project,Dr.A.Annie Micheal,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AI,6,A3,SITA3007,Computational Intelligence,S.Nivetha,Dr. D. Menaka,THEORY,3
+CSE-AI,6,A3,SITA3010,Natural Language Processing,Dr.Sridevi,Mrs. Hema V,THEORY,3
+CSE-AI,6,A3,SCSA3033,Applied Machine Learning,Ms.Abirami.R,Mrs. Saraswathi S,THEORY,3
+CSE-AI,6,A3,SCSA1606,Predictive and Advanced Analytics,Dr.Rajalakshmi,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AI,6,A3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AI,6,A3,SECA3009,Digital Image Processing,Dr.Naresh Kumar Thapa,Dr. Veda Narayanan,THEORY,3
+CSE-AI,6,A3,SCSA2608,AI and Visualization Lab,Dr.Rajalakshmi,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AI,6,A3,SCSA2604,Natural Language Processing Lab,Ms.S.Nandhini,Mrs. Parveen . A,PRACTICAL,2
+CSE-AI,6,A3,S731AIPROJ,Interdisciplinary Project,Ms.Parveen.A,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AI,6,A4,SITA3007,Computational Intelligence,Dr.R.Sathya Bama Krishna,Dr. D. Menaka,THEORY,3
+CSE-AI,6,A4,SITA3010,Natural Language Processing,Dr.Sridevi,Mrs. Hema V,THEORY,3
+CSE-AI,6,A4,SCSA3033,Applied Machine Learning,Dr.Mercy Paul Selvan,Mrs. Saraswathi S,THEORY,3
+CSE-AI,6,A4,SCSA1606,Predictive and Advanced Analytics,Dr.Rajalakshmi,Dr. B. U. Anu Barathi,THEORY,3
+CSE-AI,6,A4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AI,6,A4,SECA3009,Digital Image Processing,Ms.Bhavani,Dr. Veda Narayanan,THEORY,3
+CSE-AI,6,A4,SCSA2608,AI and Visualization Lab,Dr.Rajalakshmi,Mrs. G Anbu Selvi,PRACTICAL,2
+CSE-AI,6,A4,SCSA2604,Natural Language Processing Lab,Ms.S.Nandhini,Mrs. Parveen . A,PRACTICAL,2
+CSE-AI,6,A4,S731AIPROJ,Interdisciplinary Project,Ms.Muthulakshmi A,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIR,6,A1,SITA3007,Computational Intelligence,Dr.Vigneshwari,Dr. D. Menaka,THEORY,3
+CSE-AIR,6,A1,SMRA1603,Robot Programming,Dr.J.Jeya Jeevahan,Dr.J.Jeya Jeevahan,THEORY,3
+CSE-AIR,6,A1,SCSA1612,Machine Learning for Robotics,Dr.D.DNS.Ravikumar,Dr. D.N. S. Ravikumar,THEORY,3
+CSE-AIR,6,A1,SEIA3006,ROBOTICS AND AUTOMATION,Dr.Anbarasi Jebaselvi,Dr. Anbarasi Jebaselvi,THEORY,3
+CSE-AIR,6,A1,SMRA1701,Robotics and Machine Vision System,Dr.J.R.Deepak,Dr.J.R.Deepak,THEORY,3
+CSE-AIR,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIR,6,A1,SCSA2609,Neural networks using MATLAB,Dr.Naresh Kumar Thapa,Dr. Naresh Kumar Thapa,PRACTICAL,2
+CSE-AIR,6,A1,SMRA2602,Robot Programming Lab,Dr.J.Jeya Jeevahan,Dr.R.B.Durairaj,PRACTICAL,2
+CSE-AIR,6,A1,S612AIPROJ,Interdisciplinary Project,Dr.Sonia Jenifer Rayen,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-AIR,6,A2,SITA3007,Computational Intelligence,Dr.Vigneshwari,Dr. D. Menaka,THEORY,3
+CSE-AIR,6,A2,SMRA1603,Robot Programming,Dr.J.Jeya Jeevahan,Dr.J.Jeya Jeevahan,THEORY,3
+CSE-AIR,6,A2,SCSA1612,Machine Learning for Robotics,Dr.Anbarasi Jebaselvi,Dr. Anbarasi Jebaselvi,THEORY,3
+CSE-AIR,6,A2,SEIA3006,ROBOTICS AND AUTOMATION,Dr.Anbarasi Jebaselvi,Dr. Anbarasi Jebaselvi,THEORY,3
+CSE-AIR,6,A2,SMRA1701,Robotics and Machine Vision System,Dr.R.B.Durairaj,Dr.J.R.Deepak,THEORY,3
+CSE-AIR,6,A2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-AIR,6,A2,SCSA2609,Neural networks using MATLAB,Dr.Naresh Kumar Thapa,Dr. Naresh Kumar Thapa,PRACTICAL,2
+CSE-AIR,6,A2,SMRA2602,Robot Programming Lab,Dr.R.B.Durairaj,Dr.R.B.Durairaj,PRACTICAL,2
+CSE-AIR,6,A2,S612AIPROJ,Interdisciplinary Project,Ms.Subapriya V,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-BCT,6,A1,SCSA1613,Intrusion Detection System,Dr.N.Nanthini,Dr. N.Nanthini,THEORY,3
+CSE-BCT,6,A1,SCSA1614,DevOps,Mr.Shanthi Thangam M,Mr. Shanthi Thangam M,THEORY,3
+CSE-BCT,6,A1,SCSA1615,Smart Contracts,Dr.Geethanjali,Dr. Geethanjali,THEORY,3
+CSE-BCT,6,A1,SCSA3043,ML tools and Techniques,Mrs.Parveen.A,Dr. Minu Susan Jacob,THEORY,3
+CSE-BCT,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-BCT,6,A1,SCSA3033,APPLIED MACHINE LEARNING,Ms.B.LaIitha Devi,Mrs. Saraswathi S,THEORY,3
+CSE-BCT,6,A1,SCSA2610,Intrusion Detection System Lab,Dr.D.Menaka,Dr B.S.Kiruthika Devi,PRACTICAL,2
+CSE-BCT,6,A1,SCSA2611,DevOps Lab,Mr.Shanthi Thangam M,Mr. Shanthi Thangam M,PRACTICAL,2
+CSE-BCT,6,A1,S613AIPROJ,Interdisciplinary Project,Ms.Lekshmi S Raveendran,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-CS,6,A1,SCSA1613,Intrusion Detection System,Dr.AruI Prakash,Dr. N .Nanthini,THEORY,3
+CSE-CS,6,A1,SCSA1616,Linux Programming,Dr.Usama Abdur Rahman,Dr.P.Sardar Maran,THEORY,3
+CSE-CS,6,A1,SCSA1617,AI Enhanced Cyberthreats,Ms.Triveni,Ms. Triveni,THEORY,3
+CSE-CS,6,A1,SCSA3033,Applied Machine Learning,Ms.Mabel Nirmala Joseph,Mrs. Saraswathi S,THEORY,3
+CSE-CS,6,A1,SCSA3084,Firewall and Network Protection,Ms.Gracelin Sheena,Mr. Sundar R,THEORY,3
+CSE-CS,6,A1,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-CS,6,A1,SCSA2610,Intrusion Detection System lab,Dr.N.Nanthini,Dr B.S.Kiruthika Devi,PRACTICAL,2
+CSE-CS,6,A1,SCSA2612,Linux Lab,Dr.Usama Abdur Rahman,Dr. Usama Abdur Rahman,PRACTICAL,2
+CSE-CS,6,A1,S614AIPROJ,Interdisciplinary Project,Dr Veena K,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-CS,6,A2,SCSA1613,Intrusion Detection System,Dr.N.Nanthini,Dr. N.Nanthini,THEORY,3
+CSE-CS,6,A2,SCSA1616,Linux Programming,Dr.Usama Abdur Rahman,Dr.P.Sardar Maran,THEORY,3
+CSE-CS,6,A2,SCSA1617,AI Enhanced Cyberthreats,Ms.Triveni,Ms.Triveni,THEORY,3
+CSE-CS,6,A2,SCSA3033,Applied Machine Learning,Ms.B.Lalitha Devi,Mrs. Saraswathi S,THEORY,3
+CSE-CS,6,A2,SCSA3084,Firewall and Network Protection,Dr.Sabeena Gnanaselvi,Mr. Sundar R,THEORY,3
+CSE-CS,6,A2,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-CS,6,A2,SCSA2610,Intrusion Detection System lab,Dr.N.Nanthini,Dr B.S.Kiruthika Devi,PRACTICAL,2
+CSE-CS,6,A2,SCSA2612,Linux Lab,Dr.Usama Abdur Rahman,Dr. Usama Abdur Rahman,PRACTICAL,2
+CSE-CS,6,A2,S614AIPROJ,Interdisciplinary Project,Ms.N.Senthamilarasi,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-CS,6,A3,SCSA1613,Intrusion Detection System,Dr.AruI Prakash,Dr. N.Nanthini,THEORY,3
+CSE-CS,6,A3,SCSA1616,Linux Programming,Dr.P.Sardar Maran,Dr.P.Sardar Maran,THEORY,3
+CSE-CS,6,A3,SCSA1617,AI Enhanced Cyberthreats,Dr Veena K,Ms. Triveni,THEORY,3
+CSE-CS,6,A3,SCSA3033,Applied Machine Learning,Ms.Mabel Nirmala Joseph,Mrs. Saraswathi S,THEORY,3
+CSE-CS,6,A3,SCSA3084,Firewall and Network Protection,Mr.Sundar R,Mr. Sundar R,THEORY,3
+CSE-CS,6,A3,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-CS,6,A3,SCSA2610,Intrusion Detection System lab,Dr B.S.Kiruthika Devi,Dr B.S.Kiruthika Devi,PRACTICAL,2
+CSE-CS,6,A3,SCSA2612,Linux Lab,Dr.P.Sardar Maran,Dr. Usama Abdur Rahman,PRACTICAL,2
+CSE-CS,6,A3,S614AIPROJ,Interdisciplinary Project,Dr.Sathiya Prasad,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+CSE-CS,6,A4,SCSA1613,Intrusion Detection System,Dr.AruI Prakash,Dr. N.Nanthini,THEORY,3
+CSE-CS,6,A4,SCSA1616,Linux Programming,Dr.P.Sardar Maran,Dr.P.Sardar Maran,THEORY,3
+CSE-CS,6,A4,SCSA1617,AI Enhanced Cyberthreats,Dr Veena K,Ms.Triveni,THEORY,3
+CSE-CS,6,A4,SCSA3033,Applied Machine Learning,Ms.R.Sasirekha,Mrs. Saraswathi S,THEORY,3
+CSE-CS,6,A4,SCSA3084,Firewall and Network Protection,Mr.Sundar R,Mr. Sundar R,THEORY,3
+CSE-CS,6,A4,CBCS,CBCS,CBCS,CBCS,THEORY,3
+CSE-CS,6,A4,SCSA2610,Intrusion Detection System lab,Dr B.S.Kiruthika Devi,Dr B.S.Kiruthika Devi,PRACTICAL,2
+CSE-CS,6,A4,SCSA2612,Linux Lab,Dr.P.Sardar Maran,Dr. Usama Abdur Rahman,PRACTICAL,2
+CSE-CS,6,A4,S614AIPROJ,Interdisciplinary Project,Dr.Usama Abdur Rahman,Dr. R.Sathya Bama Krishna,PRACTICAL,3

@@ -1,0 +1,38 @@
+{
+    "PONRAM": {
+        "10_A": {
+            "monday": {
+                "one": "ENG"
+            },
+            "tuesday": {},
+            "wednesday": {
+                "three": "ENG"
+            },
+            "thursday": {
+                "nine": "ENG"
+            },
+            "friday": {},
+            "saturday": {
+                "four": "ENG",
+                "six": "ENG"
+            }
+        },
+        "12_A": {
+            "monday": {
+                "one": "ENG"
+            },
+            "tuesday": {},
+            "wednesday": {
+                "three": "ENG"
+            },
+            "thursday": {
+                "nine": "ENG"
+            },
+            "friday": {},
+            "saturday": {
+                "four": "ENG",
+                "six": "ENG"
+            }
+        }
+    }
+}

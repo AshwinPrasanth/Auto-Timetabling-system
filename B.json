@@ -1,0 +1,37 @@
+{
+    "B": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {
+                "three": "CS",
+                "four": "CS"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {},
+            "saturday": {}
+        },
+        "10_B": {
+            "monday": {},
+            "tuesday": {
+                "three": "CS",
+                "four": "CS"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {},
+            "saturday": {}
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {
+                "three": "CS",
+                "four": "CS"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {},
+            "saturday": {}
+        }
+    }
+}

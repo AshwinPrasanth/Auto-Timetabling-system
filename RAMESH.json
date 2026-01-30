@@ -1,0 +1,42 @@
+{
+    "RAMESH": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {
+                "nine": "MAT"
+            },
+            "wednesday": {
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "thursday": {
+                "seven": "MAT"
+            },
+            "friday": {
+                "three": "MAT",
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "saturday": {}
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {
+                "nine": "MAT"
+            },
+            "wednesday": {
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "thursday": {
+                "seven": "MAT"
+            },
+            "friday": {
+                "three": "MAT",
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "saturday": {}
+        }
+    }
+}

@@ -1,0 +1,199 @@
+Dept,Semester,Section,Course Code,Name of the Course,Course Handling Staff,Course Coordinator,Course Type,Occur
+0,CSE-DS,6,A1,SITA3010,Appear Studies,Jill Parsons,Mrs. Hema V,THEORY,3
+1,CSE-DS,6,A1,SITA3005,Challenge Studies,Rebecca Allen,Mrs. Anu Disney D,THEORY,3
+2,CSE-DS,6,A1,SCSA1611,Available Studies,John Oconnor,Dr. K. Ashok Kumar,THEORY,3
+3,CSE-DS,6,A1,SCSA3033,Nor Studies,Philip Meadows,Mrs. Saraswathi S,THEORY,3
+4,CSE-DS,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+5,CSE-DS,6,A1,SECA3009,Explain Studies,Dawn Gardner,Dr. Veda Narayanan,THEORY,3
+6,CSE-DS,6,A1,SCSA2607,Price Studies,John Oconnor,Dr. K. Ashok Kumar,PRACTICAL,2
+7,CSE-DS,6,A1,SCSA2604,Season Studies,Jill Parsons,Mrs. Parveen . A,PRACTICAL,2
+8,CSE-DS,6,A1,S733AIPROJ,Detail Studies,Jill Parsons,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+9,CSE-DS,6,A2,SITA3010,Appear Studies,Jill Parsons,Mrs. Hema V,THEORY,3
+10,CSE-DS,6,A2,SITA3005,Challenge Studies,Rebecca Allen,Mrs. Anu Disney D,THEORY,3
+11,CSE-DS,6,A2,SCSA1611,Available Studies,John Oconnor,Dr. K. Ashok Kumar,THEORY,3
+12,CSE-DS,6,A2,SCSA3033,Nor Studies,Cynthia Clements,Mrs. Saraswathi S,THEORY,3
+13,CSE-DS,6,A2,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+14,CSE-DS,6,A2,SECA3009,Explain Studies,Dawn Gardner,Dr. Veda Narayanan,THEORY,3
+15,CSE-DS,6,A2,SCSA2607,Price Studies,John Oconnor,Dr. K. Ashok Kumar,PRACTICAL,2
+16,CSE-DS,6,A2,SCSA2604,Season Studies,Jill Parsons,Mrs. Parveen . A,PRACTICAL,2
+17,CSE-DS,6,A2,S733AIPROJ,Detail Studies,William Morgan,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+18,CSE-DS,6,A3,SITA3010,Appear Studies,Jill Parsons,Mrs. Hema V,THEORY,3
+19,CSE-DS,6,A3,SITA3005,Challenge Studies,Rebecca Allen,Mrs. Anu Disney D,THEORY,3
+20,CSE-DS,6,A3,SCSA1611,Available Studies,William Haynes,Dr. K. Ashok Kumar,THEORY,3
+21,CSE-DS,6,A3,SCSA3033,Nor Studies,Cynthia Clements,Mrs. Saraswathi S,THEORY,3
+22,CSE-DS,6,A3,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+23,CSE-DS,6,A3,SECA3009,Explain Studies,Dawn Gardner,Dr. Veda Narayanan,THEORY,3
+24,CSE-DS,6,A3,SCSA2607,Price Studies,Isaiah Marshall,Dr. K. Ashok Kumar,PRACTICAL,2
+25,CSE-DS,6,A3,SCSA2604,Season Studies,Donna Nelson,Mrs. Parveen . A,PRACTICAL,2
+26,CSE-DS,6,A3,S733AIPROJ,Detail Studies,Stephen Forbes,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+27,CSE-IOT,6,A1,SCSA1607,Stand Studies,Scott Graham,Ms. Devi,THEORY,3
+28,CSE-IOT,6,A1,SCSA1608,Kitchen Studies,Benjamin Clark,Mrs. D Sudha,THEORY,3
+29,CSE-IOT,6,A1,SCSA1609,Fund Studies,Gerald Warner,Dr.E.Srividhya,THEORY,3
+30,CSE-IOT,6,A1,SCSA3033,Nor Studies,Stephen Forbes,Mrs. Saraswathi S,THEORY,3
+31,CSE-IOT,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+32,CSE-IOT,6,A1,SCSA3029,Size Studies,Janice Kim,Dr. Sonia Jenifer Rayen,THEORY,3
+33,CSE-IOT,6,A1,SCSA2605,Conference Studies,Gerald Warner,Dr.E.Srividhya,PRACTICAL,2
+34,CSE-IOT,6,A1,SCSA2606,Fall Studies,Christina Church,Mrs. R. Yugha,PRACTICAL,2
+35,CSE-IOT,6,A1,S732AIPROJ,Detail Studies,Russell Mcdonald,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+36,CSE-AIML,6,A1,SMTA1605,Record Studies,Paula Anderson,Dr. H. Girija Bai,THEORY,3
+37,CSE-AIML,6,A1,SITA3010,Me Studies,Emily Boyd,Mrs. Hema V,THEORY,3
+38,CSE-AIML,6,A1,SCSA1606,Site Studies,Natalie Mcdaniel,Dr. B. U. Anu Barathi,THEORY,3
+39,CSE-AIML,6,A1,SCSA3033,Nor Studies,Maria Roman,Mrs. Saraswathi S,THEORY,3
+40,CSE-AIML,6,A1,SCSA3043,To Studies,Daniel Newman,Dr. Minu Susan Jacob,THEORY,3
+41,CSE-AIML,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+42,CSE-AIML,6,A1,SCSA2608,Member Studies,Natalie Mcdaniel,Mrs. G Anbu Selvi,PRACTICAL,2
+43,CSE-AIML,6,A1,SCSA2604,Season Studies,Emily Boyd,Mrs. Parveen A,PRACTICAL,2
+44,CSE-AIML,6,A1,S611AIPROJ,Detail Studies,Erica Donaldson MD,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+45,CSE-AIML,6,A2,SMTA1605,Record Studies,Adrienne Reed,Dr. H. Girija Bai,THEORY,3
+46,CSE-AIML,6,A2,SITA3010,Me Studies,Emily Boyd,Mrs. Hema V,THEORY,3
+47,CSE-AIML,6,A2,SCSA1606,Site Studies,Donna Meyer,Dr. B. U. Anu Barathi,THEORY,3
+48,CSE-AIML,6,A2,SCSA3033,Nor Studies,Stephen Forbes,Mrs. Saraswathi S,THEORY,3
+49,CSE-AIML,6,A2,SCSA3043,To Studies,Daniel Newman,Dr. Minu Susan Jacob,THEORY,3
+50,CSE-AIML,6,A2,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+51,CSE-AIML,6,A2,SCSA2608,Member Studies,Donna Meyer,. G Anbu Selvi,PRACTICAL,2
+52,CSE-AIML,6,A2,SCSA2604,Season Studies,Maria Meyer,. Parveen . A,PRACTICAL,2
+53,CSE-AIML,6,A2,S611AIPROJ,Detail Studies,Brian Beasley,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+54,CSE-AIML,6,A3,SMTA1605,Record Studies,Adrienne Reed,Dr. H. Girija Bai,THEORY,3
+55,CSE-AIML,6,A3,SITA3010,Me Studies,Emily Boyd,Mrs. Hema V,THEORY,3
+56,CSE-AIML,6,A3,SCSA1606,Site Studies,Donna Meyer,Dr. B. U. Anu Barathi,THEORY,3
+57,CSE-AIML,6,A3,SCSA3033,Nor Studies,Kathleen Barrett,Mrs. Saraswathi S,THEORY,3
+58,CSE-AIML,6,A3,SCSA3043,To Studies,Daniel Newman,Dr. Minu Susan Jacob,THEORY,3
+59,CSE-AIML,6,A3,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+60,CSE-AIML,6,A3,SCSA2608,Member Studies,Donna Meyer,Mrs. G Anbu Selvi,PRACTICAL,2
+61,CSE-AIML,6,A3,SCSA2604,Season Studies,William Haynes,Mrs. Parveen . A,PRACTICAL,2
+62,CSE-AIML,6,A3,S611AIPROJ,Detail Studies,Amanda Lopez,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+63,CSE-AIML,6,A4,SMTA1605,Record Studies,Dennis Walker,Dr. H. Girija Bai,THEORY,3
+64,CSE-AIML,6,A4,SITA3010,Me Studies,David Smith,Mrs. Hema V,THEORY,3
+65,CSE-AIML,6,A4,SCSA1606,Site Studies,Donna Meyer,Dr. B. U. Anu Barathi,THEORY,3
+66,CSE-AIML,6,A4,SCSA3033,Nor Studies,Karen Scott,Mrs. Saraswathi S,THEORY,3
+67,CSE-AIML,6,A4,SCSA3043,To Studies,Lisa Lang,Dr. Minu Susan Jacob,THEORY,3
+68,CSE-AIML,6,A4,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+69,CSE-AIML,6,A4,SCSA2608,Member Studies,Jennifer Blair,Mrs. G Anbu Selvi,PRACTICAL,2
+70,CSE-AIML,6,A4,SCSA2604,Season Studies,William Haynes,Mrs. Parveen . A,PRACTICAL,2
+71,CSE-AIML,6,A4,S611AIPROJ,Detail Studies,Larry Chambers,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+72,CSE-AIML,6,A5,SMTA1605,Record Studies,Paula Anderson,Dr. H. Girija Bai,THEORY,3
+73,CSE-AIML,6,A5,SITA3010,Me Studies,John Marshall,Mrs. HEMA V,THEORY,3
+74,CSE-AIML,6,A5,SCSA1606,Site Studies,Natalie Mcdaniel,Dr. B. U. Anu Barathi,THEORY,3
+75,CSE-AIML,6,A5,SCSA3033,Nor Studies,Maria Roman,Mrs. SARASWATHI S,THEORY,3
+76,CSE-AIML,6,A5,SCSA3043,To Studies,Lisa Lang,Dr. Minu Susan Jacob,THEORY,3
+77,CSE-AIML,6,A5,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+78,CSE-AIML,6,A5,SCSA2608,Member Studies,Natalie Mcdaniel,Mrs. G Anbu Selvi,PRACTICAL,2
+79,CSE-AIML,6,A5,SCSA2604,Season Studies,William Haynes,Mrs. Parveen . A,PRACTICAL,2
+80,CSE-AIML,6,A5,S611AIPROJ,Detail Studies,Adam Walsh,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+81,CSE-AIML,6,B1,SMTA1605,Record Studies,Katherine Myers,Dr. H. Girija Bai,THEORY,3
+82,CSE-AIML,6,B1,SITA3010,Me Studies,Matthew Vang,Mrs. Hema V,THEORY,3
+83,CSE-AIML,6,B1,SCSA1606,Site Studies,Amanda Shannon,Dr. B. U. Anu Barathi,THEORY,3
+84,CSE-AIML,6,B1,SCSA3033,Nor Studies,Richard Lambert DDS,Mrs. Saraswathi S,THEORY,3
+85,CSE-AIML,6,B1,SCSA3043,To Studies,Lisa Lang,Dr. Minu Susan Jacob,THEORY,3
+86,CSE-AIML,6,B1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+87,CSE-AIML,6,B1,SCSA2608,Member Studies,Susan Hale,Mrs. G Anbu Selvi,PRACTICAL,2
+88,CSE-AIML,6,B1,SCSA2604,Season Studies,Robert Li,Mrs. Parveen . A,PRACTICAL,2
+89,CSE-AIML,6,B1,S611AIPROJ,Detail Studies,Anne Romero,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+90,CSE-AIML,6,B2,SMTA1605,Record Studies,Katherine Myers,Dr. H. Girija Bai,THEORY,3
+91,CSE-AIML,6,B2,SITA3010,Me Studies,Charles Johnson,Mrs. HEMA V,THEORY,3
+92,CSE-AIML,6,B2,SCSA1606,Site Studies,Susan Hale,Dr. B. U. Anu Barathi,THEORY,3
+93,CSE-AIML,6,B2,SCSA3033,Nor Studies,Stephanie Christian,Mrs. Saraswathi S,THEORY,3
+94,CSE-AIML,6,B2,SCSA3043,To Studies,Robert Li,Dr. Minu Susan Jacob,THEORY,3
+95,CSE-AIML,6,B2,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+96,CSE-AIML,6,B2,SCSA2608,Member Studies,Susan Hale,Mrs. G Anbu Selvi,PRACTICAL,2
+97,CSE-AIML,6,B2,SCSA2604,Season Studies,Robert Li,Mrs. Parveen . A,PRACTICAL,2
+98,CSE-AIML,6,B2,S611AIPROJ,Detail Studies,John Vaughan,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+99,CSE-AI,6,A1,SITA3007,Suggest Studies,Isaiah Marshall,Dr. D. Menaka,THEORY,3
+100,CSE-AI,6,A1,SITA3010,Appear Studies,Sean Brooks,Mrs. Hema V,THEORY,3
+101,CSE-AI,6,A1,SCSA3033,Nor Studies,Jessica Vargas,Mrs. Saraswathi S,THEORY,3
+102,CSE-AI,6,A1,SCSA1606,Site Studies,Katelyn Stephens,Dr. B. U. Anu Barathi,THEORY,3
+103,CSE-AI,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+104,CSE-AI,6,A1,SECA3009,Explain Studies,Roger Nichols,Dr. Veda Narayanan,THEORY,3
+105,CSE-AI,6,A1,SCSA2608,Far Studies,Jennifer Blair,Mrs. G Anbu Selvi,PRACTICAL,2
+106,CSE-AI,6,A1,SCSA2604,Season Studies,Brenda White,Mrs. Parveen . A,PRACTICAL,2
+107,CSE-AI,6,A1,S731AIPROJ,Detail Studies,Laura Andrews,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+108,CSE-AI,6,A2,SITA3007,Suggest Studies,Jennifer Blair,Dr. D. Menaka,THEORY,3
+109,CSE-AI,6,A2,SITA3010,Appear Studies,Sean Brooks,Mrs. HEMA V,THEORY,3
+110,CSE-AI,6,A2,SCSA3033,Nor Studies,Robert Liu,Mrs. SARASWATHI S,THEORY,3
+111,CSE-AI,6,A2,SCSA1606,Site Studies,Natalie Mcdaniel,Dr. B. U. Anu Barathi,THEORY,3
+112,CSE-AI,6,A2,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+113,CSE-AI,6,A2,SECA3009,Explain Studies,Roger Nichols,Dr. Veda Narayanan,THEORY,3
+114,CSE-AI,6,A2,SCSA2608,Far Studies,Natalie Mcdaniel,Mrs. G Anbu Selvi,PRACTICAL,2
+115,CSE-AI,6,A2,SCSA2604,Season Studies,Steven Barrett MD,Mrs. Parveen . A,PRACTICAL,2
+116,CSE-AI,6,A2,S731AIPROJ,Detail Studies,Chelsea Ibarra MD,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+117,CSE-AI,6,A3,SITA3007,Suggest Studies,Lauren White,Dr. D. Menaka,THEORY,3
+118,CSE-AI,6,A3,SITA3010,Appear Studies,Gavin Scott,Mrs. Hema V,THEORY,3
+119,CSE-AI,6,A3,SCSA3033,Nor Studies,Roberta Vargas,Mrs. Saraswathi S,THEORY,3
+120,CSE-AI,6,A3,SCSA1606,Site Studies,Mark Henry,Dr. B. U. Anu Barathi,THEORY,3
+121,CSE-AI,6,A3,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+122,CSE-AI,6,A3,SECA3009,Explain Studies,Roger Nichols,Dr. Veda Narayanan,THEORY,3
+123,CSE-AI,6,A3,SCSA2608,Far Studies,Mark Henry,Mrs. G Anbu Selvi,PRACTICAL,2
+124,CSE-AI,6,A3,SCSA2604,Season Studies,Donna Nelson,Mrs. Parveen . A,PRACTICAL,2
+125,CSE-AI,6,A3,S731AIPROJ,Detail Studies,Christopher Kelly,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+126,CSE-AI,6,A4,SITA3007,Suggest Studies,Amanda Lopez,Dr. D. Menaka,THEORY,3
+127,CSE-AI,6,A4,SITA3010,Appear Studies,Gavin Scott,Mrs. Hema V,THEORY,3
+128,CSE-AI,6,A4,SCSA3033,Nor Studies,Melissa Kim,Mrs. Saraswathi S,THEORY,3
+129,CSE-AI,6,A4,SCSA1606,Site Studies,Mark Henry,Dr. B. U. Anu Barathi,THEORY,3
+130,CSE-AI,6,A4,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+131,CSE-AI,6,A4,SECA3009,Explain Studies,Erica Holloway,Dr. Veda Narayanan,THEORY,3
+132,CSE-AI,6,A4,SCSA2608,Far Studies,Mark Henry,Mrs. G Anbu Selvi,PRACTICAL,2
+133,CSE-AI,6,A4,SCSA2604,Season Studies,Miss Sharon Mclaughlin,Mrs. Parveen . A,PRACTICAL,2
+134,CSE-AI,6,A4,S731AIPROJ,Detail Studies,Kevin Davidson,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+135,CSE-AIR,6,A1,SITA3007,Suggest Studies,Wendy Brown,Dr. D. Menaka,THEORY,3
+136,CSE-AIR,6,A1,SMRA1603,Well Studies,Jennifer Brown,Dr.J.Jeya Jeevahan,THEORY,3
+137,CSE-AIR,6,A1,SCSA1612,Spend Studies,Katie Dorsey,Dr. D.N. S. Ravikumar,THEORY,3
+138,CSE-AIR,6,A1,SEIA3006,Soldier Studies,Scott Hancock,Dr. Anbarasi Jebaselvi,THEORY,3
+139,CSE-AIR,6,A1,SMRA1701,Bring Studies,Patrick Lynn,Dr.J.R.Deepak,THEORY,3
+140,CSE-AIR,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+141,CSE-AIR,6,A1,SCSA2609,Visit Studies,Roger Nichols,Dr. Naresh Kumar Thapa,PRACTICAL,2
+142,CSE-AIR,6,A1,SMRA2602,New Studies,Jennifer Brown,Dr.R.B.Durairaj,PRACTICAL,2
+143,CSE-AIR,6,A1,S612AIPROJ,Detail Studies,Carla Allen,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+144,CSE-AIR,6,A2,SITA3007,Suggest Studies,Wendy Brown,Dr. D. Menaka,THEORY,3
+145,CSE-AIR,6,A2,SMRA1603,Well Studies,Jennifer Brown,Dr.J.Jeya Jeevahan,THEORY,3
+146,CSE-AIR,6,A2,SCSA1612,Spend Studies,Scott Hancock,Dr. Anbarasi Jebaselvi,THEORY,3
+147,CSE-AIR,6,A2,SEIA3006,Soldier Studies,Scott Hancock,Dr. Anbarasi Jebaselvi,THEORY,3
+148,CSE-AIR,6,A2,SMRA1701,Bring Studies,Regina Morris,Dr.J.R.Deepak,THEORY,3
+149,CSE-AIR,6,A2,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+150,CSE-AIR,6,A2,SCSA2609,Visit Studies,Roger Nichols,Dr. Naresh Kumar Thapa,PRACTICAL,2
+151,CSE-AIR,6,A2,SMRA2602,New Studies,Regina Morris,Dr.R.B.Durairaj,PRACTICAL,2
+152,CSE-AIR,6,A2,S612AIPROJ,Detail Studies,Jean Leonard,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+153,CSE-BCT,6,A1,SCSA1613,Read Studies,Ruth Lee,Dr. N.Nanthini,THEORY,3
+154,CSE-BCT,6,A1,SCSA1614,Participant Studies,Gail Garcia,Mr. Shanthi Thangam M,THEORY,3
+155,CSE-BCT,6,A1,SCSA1615,Physical Studies,Timothy Ramos,Dr. Geethanjali,THEORY,3
+156,CSE-BCT,6,A1,SCSA3043,To Studies,Robert Li,Dr. Minu Susan Jacob,THEORY,3
+157,CSE-BCT,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+158,CSE-BCT,6,A1,SCSA3033,Set Studies,Jon Schroeder,Mrs. Saraswathi S,THEORY,3
+159,CSE-BCT,6,A1,SCSA2610,Group Studies,Jennifer Blair,Dr B.S.Kiruthika Devi,PRACTICAL,2
+160,CSE-BCT,6,A1,SCSA2611,Purpose Studies,Gail Garcia,Mr. Shanthi Thangam M,PRACTICAL,2
+161,CSE-BCT,6,A1,S613AIPROJ,Detail Studies,Joshua French,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+162,CSE-CS,6,A1,SCSA1613,Read Studies,Ryan Payne,Dr. N .Nanthini,THEORY,3
+163,CSE-CS,6,A1,SCSA1616,Can Studies,Christopher Bullock,Dr.P.Sardar Maran,THEORY,3
+164,CSE-CS,6,A1,SCSA1617,Son Studies,Sean Lynch,Ms. Triveni,THEORY,3
+165,CSE-CS,6,A1,SCSA3033,Nor Studies,Susan Cunningham,Mrs. Saraswathi S,THEORY,3
+166,CSE-CS,6,A1,SCSA3084,Serious Studies,Karen Flores,Mr. Sundar R,THEORY,3
+167,CSE-CS,6,A1,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+168,CSE-CS,6,A1,SCSA2610,Message Studies,Ruth Lee,Dr B.S.Kiruthika Devi,PRACTICAL,2
+169,CSE-CS,6,A1,SCSA2612,Visit Studies,Christopher Bullock,Dr. Usama Abdur Rahman,PRACTICAL,2
+170,CSE-CS,6,A1,S614AIPROJ,Detail Studies,Carrie Williams,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+171,CSE-CS,6,A2,SCSA1613,Read Studies,Ruth Lee,Dr. N.Nanthini,THEORY,3
+172,CSE-CS,6,A2,SCSA1616,Can Studies,Christopher Bullock,Dr.P.Sardar Maran,THEORY,3
+173,CSE-CS,6,A2,SCSA1617,Son Studies,Sean Lynch,Ms.Triveni,THEORY,3
+174,CSE-CS,6,A2,SCSA3033,Nor Studies,Lauren Harper,Mrs. Saraswathi S,THEORY,3
+175,CSE-CS,6,A2,SCSA3084,Serious Studies,Derek Valdez,Mr. Sundar R,THEORY,3
+176,CSE-CS,6,A2,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+177,CSE-CS,6,A2,SCSA2610,Message Studies,Ruth Lee,Dr B.S.Kiruthika Devi,PRACTICAL,2
+178,CSE-CS,6,A2,SCSA2612,Visit Studies,Christopher Bullock,Dr. Usama Abdur Rahman,PRACTICAL,2
+179,CSE-CS,6,A2,S614AIPROJ,Detail Studies,Jason Johnson,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+180,CSE-CS,6,A3,SCSA1613,Read Studies,Ryan Payne,Dr. N.Nanthini,THEORY,3
+181,CSE-CS,6,A3,SCSA1616,Can Studies,Chelsea Armstrong,Dr.P.Sardar Maran,THEORY,3
+182,CSE-CS,6,A3,SCSA1617,Son Studies,Carrie Williams,Ms. Triveni,THEORY,3
+183,CSE-CS,6,A3,SCSA3033,Nor Studies,Susan Cunningham,Mrs. Saraswathi S,THEORY,3
+184,CSE-CS,6,A3,SCSA3084,Serious Studies,William Haynes,Mr. Sundar R,THEORY,3
+185,CSE-CS,6,A3,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+186,CSE-CS,6,A3,SCSA2610,Message Studies,Tanya Dixon,Dr B.S.Kiruthika Devi,PRACTICAL,2
+187,CSE-CS,6,A3,SCSA2612,Visit Studies,Isaiah Marshall,Dr. Usama Abdur Rahman,PRACTICAL,2
+188,CSE-CS,6,A3,S614AIPROJ,Detail Studies,Emily Evans,Dr. R.Sathya Bama Krishna,PRACTICAL,3
+189,CSE-CS,6,A4,SCSA1613,Read Studies,Ryan Payne,Dr. N.Nanthini,THEORY,3
+190,CSE-CS,6,A4,SCSA1616,Can Studies,Isaiah Marshall,Dr.P.Sardar Maran,THEORY,3
+191,CSE-CS,6,A4,SCSA1617,Son Studies,Carrie Williams,Ms.Triveni,THEORY,3
+192,CSE-CS,6,A4,SCSA3033,Nor Studies,Ashley Russell,Mrs. Saraswathi S,THEORY,3
+193,CSE-CS,6,A4,SCSA3084,Serious Studies,William Haynes,Mr. Sundar R,THEORY,3
+194,CSE-CS,6,A4,CBCS,Of Studies,Jillian Hernandez,CBCS,THEORY,3
+195,CSE-CS,6,A4,SCSA2610,Message Studies,Tanya Dixon,Dr B.S.Kiruthika Devi,PRACTICAL,2
+196,CSE-CS,6,A4,SCSA2612,Visit Studies,Holly Thomas,Dr. Usama Abdur Rahman,PRACTICAL,2
+197,CSE-CS,6,A4,S614AIPROJ,Detail Studies,Christopher Bullock,Dr. R.Sathya Bama Krishna,PRACTICAL,3

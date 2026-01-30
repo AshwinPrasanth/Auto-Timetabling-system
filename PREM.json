@@ -1,0 +1,42 @@
+{
+    "PREM": {
+        "10_A": {
+            "monday": {
+                "six": "TAM",
+                "seven": "TAM"
+            },
+            "tuesday": {
+                "six": "TAM"
+            },
+            "wednesday": {
+                "one": "TAM"
+            },
+            "thursday": {},
+            "friday": {},
+            "saturday": {
+                "one": "TAM"
+            }
+        },
+        "10_B": {
+            "monday": {
+                "three": "SOC",
+                "nine": "SOC"
+            },
+            "tuesday": {
+                "one": "SOC"
+            },
+            "wednesday": {
+                "nine": "SOC"
+            },
+            "thursday": {
+                "three": "SOC",
+                "six": "SOC"
+            },
+            "friday": {},
+            "saturday": {
+                "three": "SOC",
+                "nine": "SOC"
+            }
+        }
+    }
+}

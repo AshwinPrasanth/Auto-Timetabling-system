@@ -1,0 +1,46 @@
+{
+    "MANOGARI": {
+        "10_A": {
+            "monday": {
+                "three": "SOC",
+                "nine": "SOC"
+            },
+            "tuesday": {
+                "one": "SOC"
+            },
+            "wednesday": {
+                "nine": "SOC"
+            },
+            "thursday": {
+                "three": "SOC",
+                "six": "SOC"
+            },
+            "friday": {},
+            "saturday": {
+                "three": "SOC",
+                "nine": "SOC"
+            }
+        },
+        "10_B": {
+            "monday": {
+                "three": "SOC",
+                "nine": "SOC"
+            },
+            "tuesday": {
+                "one": "SOC"
+            },
+            "wednesday": {
+                "nine": "SOC"
+            },
+            "thursday": {
+                "three": "SOC",
+                "six": "SOC"
+            },
+            "friday": {},
+            "saturday": {
+                "three": "SOC",
+                "nine": "SOC"
+            }
+        }
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "PREM": {
+        "10_A": {
+            "monday": {
+                "six": "TAM",
+                "seven": "TAM"
+            },
+            "tuesday": {
+                "six": "TAM"
+            },
+            "wednesday": {
+                "one": "TAM"
+            },
+            "thursday": {},
+            "friday": {},
+            "saturday": {
+                "one": "TAM"
+            }
+        },
+        "10_B": {
+            "monday": {
+                "three": "SOC",
+                "nine": "SOC"
+            },
+            "tuesday": {
+                "one": "SOC"
+            },
+            "wednesday": {
+                "nine": "SOC"
+            },
+            "thursday": {
+                "three": "SOC",
+                "six": "SOC"
+            },
+            "friday": {},
+            "saturday": {
+                "three": "SOC",
+                "nine": "SOC"
+            }
+        }
+    },
+    "PONRAM": {
+        "10_A": {
+            "monday": {
+                "one": "ENG"
+            },
+            "tuesday": {},
+            "wednesday": {
+                "three": "ENG"
+            },
+            "thursday": {
+                "nine": "ENG"
+            },
+            "friday": {},
+            "saturday": {
+                "four": "ENG",
+                "six": "ENG"
+            }
+        },
+        "12_A": {
+            "monday": {
+                "one": "ENG"
+            },
+            "tuesday": {},
+            "wednesday": {
+                "three": "ENG"
+            },
+            "thursday": {
+                "nine": "ENG"
+            },
+            "friday": {},
+            "saturday": {
+                "four": "ENG",
+                "six": "ENG"
+            }
+        }
+    },
+    "MANOGARI": {
+        "10_A": {
+            "monday": {
+                "three": "SOC",
+                "nine": "SOC"
+            },
+            "tuesday": {
+                "one": "SOC"
+            },
+            "wednesday": {
+                "nine": "SOC"
+            },
+            "thursday": {
+                "three": "SOC",
+                "six": "SOC"
+            },
+            "friday": {},
+            "saturday": {
+                "three": "SOC",
+                "nine": "SOC"
+            }
+        },
+        "10_B": {
+            "monday": {
+                "three": "SOC",
+                "nine": "SOC"
+            },
+            "tuesday": {
+                "one": "SOC"
+            },
+            "wednesday": {
+                "nine": "SOC"
+            },
+            "thursday": {
+                "three": "SOC",
+                "six": "SOC"
+            },
+            "friday": {},
+            "saturday": {
+                "three": "SOC",
+                "nine": "SOC"
+            }
+        }
+    },
+    "RAMESH": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {
+                "nine": "MAT"
+            },
+            "wednesday": {
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "thursday": {
+                "seven": "MAT"
+            },
+            "friday": {
+                "three": "MAT",
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "saturday": {}
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {
+                "nine": "MAT"
+            },
+            "wednesday": {
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "thursday": {
+                "seven": "MAT"
+            },
+            "friday": {
+                "three": "MAT",
+                "four": "MAT",
+                "seven": "MAT"
+            },
+            "saturday": {}
+        }
+    },
+    "A": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {
+                "seven": "PHY"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {
+                "nine": "PHY"
+            },
+            "saturday": {
+                "seven": "PHY"
+            }
+        },
+        "10_B": {
+            "monday": {},
+            "tuesday": {
+                "seven": "PHY"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {
+                "nine": "PHY"
+            },
+            "saturday": {
+                "seven": "PHY"
+            }
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {
+                "seven": "PHY"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {
+                "nine": "PHY"
+            },
+            "saturday": {
+                "seven": "PHY"
+            }
+        }
+    },
+    "B": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {
+                "three": "CS",
+                "four": "CS"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {},
+            "saturday": {}
+        },
+        "10_B": {
+            "monday": {},
+            "tuesday": {
+                "three": "CS",
+                "four": "CS"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {},
+            "saturday": {}
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {
+                "three": "CS",
+                "four": "CS"
+            },
+            "wednesday": {},
+            "thursday": {},
+            "friday": {},
+            "saturday": {}
+        }
+    },
+    "RUBINA": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {},
+            "wednesday": {},
+            "thursday": {
+                "four": "CHE"
+            },
+            "friday": {
+                "one": "CHE",
+                "six": "CHE"
+            },
+            "saturday": {}
+        },
+        "10_B": {
+            "monday": {},
+            "tuesday": {},
+            "wednesday": {},
+            "thursday": {
+                "four": "CHE"
+            },
+            "friday": {
+                "one": "CHE",
+                "six": "CHE"
+            },
+            "saturday": {}
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {},
+            "wednesday": {},
+            "thursday": {
+                "four": "CHE"
+            },
+            "friday": {
+                "one": "CHE",
+                "six": "CHE"
+            },
+            "saturday": {}
+        }
+    }
+}

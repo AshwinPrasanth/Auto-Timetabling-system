@@ -1,0 +1,43 @@
+{
+    "RUBINA": {
+        "10_A": {
+            "monday": {},
+            "tuesday": {},
+            "wednesday": {},
+            "thursday": {
+                "four": "CHE"
+            },
+            "friday": {
+                "one": "CHE",
+                "six": "CHE"
+            },
+            "saturday": {}
+        },
+        "10_B": {
+            "monday": {},
+            "tuesday": {},
+            "wednesday": {},
+            "thursday": {
+                "four": "CHE"
+            },
+            "friday": {
+                "one": "CHE",
+                "six": "CHE"
+            },
+            "saturday": {}
+        },
+        "10_C": {
+            "monday": {},
+            "tuesday": {},
+            "wednesday": {},
+            "thursday": {
+                "four": "CHE"
+            },
+            "friday": {
+                "one": "CHE",
+                "six": "CHE"
+            },
+            "saturday": {}
+        }
+    }
+}
